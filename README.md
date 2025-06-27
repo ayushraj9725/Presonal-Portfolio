@@ -81,7 +81,7 @@ The contact form is connected to a **Spring Boot** backend API that stores messa
 ### 1. Clone the repo
 
 ```bash
-git clone [https://github.com/ayushraj-dev/portfolio.git](https://github.com/ayushraj9725/Presonal-Portfolio.git)
+git clone https://github.com/ayushraj9725/Presonal-Portfolio.git
 cd portfolio
 
 ```
