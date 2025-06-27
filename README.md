@@ -65,13 +65,13 @@ The contact form is connected to a **Spring Boot** backend API that stores messa
 
 ## 🧩 Frontend Structure
 
-![here the structure ](frontendstu.png)
+![here the structure ](https://github.com/ayushraj9725/Presonal-Portfolio/blob/master/ayush-porfolio/frontendstu.png)
 
 ---
 
 ## ⚙️ Backend Structure (Spring Boot)
 
-![here the structure ](backendstu.png)
+![here the structure ](https://github.com/ayushraj9725/Presonal-Portfolio/blob/master/ayush-porfolio/backendstu.png)
 
 
 ---
@@ -111,10 +111,10 @@ const API_BASE = "https://your-backend-url/api/v1";
 ```
 *** You can see here some Screensorts ***
 
-![portfolio](/portfolio.png)
-![Skill Banner](skillbanner.png)
-![Form Banner](formbanner.png)
-![Admin Banner](adminbanner.png)
+![portfolio](https://github.com/ayushraj9725/Presonal-Portfolio/blob/master/ayush-porfolio/portfolio.png)
+![Skill Banner](https://github.com/ayushraj9725/Presonal-Portfolio/blob/master/ayush-porfolio/skillbanner.png)
+![Form Banner](https://github.com/ayushraj9725/Presonal-Portfolio/blob/master/ayush-porfolio/formbanner.png)
+![Admin Banner](https://github.com/ayushraj9725/Presonal-Portfolio/blob/master/ayush-porfolio/adminbanner.png)
 
 
 
